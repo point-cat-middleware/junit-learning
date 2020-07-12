@@ -15,7 +15,7 @@ import io.swagger.annotations.ApiModelProperty;
  * @author fireflyhoo
  * @since 2020-07-10
  */
-@TableName("roles")
+@TableName("roles_names")
 @ApiModel(value="Roles对象", description="")
 public class Roles implements Serializable {
 
